@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm Natthakit Jantawong, but you can call me Deep.
+
+## About Me
+📚 Computer Science Student at Kasetsart University.
+🎓 Currently pursuing CS50X and CS50Python.
+## What I Do
+I love to follow my emotions, which means I can be quite lazy when there's nothing to do. However, I'm very active in chats, so feel free to reach out if you want to connect!
 
 <!--
 **themistymoon/themistymoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
