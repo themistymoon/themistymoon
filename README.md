@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I'm Natthakit Jantawong, but you can call me Deep.<br><br>About Me<br>📚 Computer Science Student at Kasetsart University.<br><br>🎓 Currently pursuing CS50X and CS50Python.<br>What I Do<br>I love to follow my emotions, which means I can be quite lazy when there's nothing to do. <br>However, I'm very active in chats, so feel free to reach out if you want to connect!
+Hi there 👋<br>I'm Natthakit Jantawong, but you can call me Deep.<br><br>About Me<br>📚 Computer Science Student at Kasetsart University.<br>🎓 Currently pursuing CS50X and CS50Python.<br><br>What I Do<br>I love to follow my emotions, which means I can be quite lazy when there's nothing to do. <br>However, I'm very active in chats, so feel free to reach out if you want to connect!
 
 
 ## 🌐 Socials:
